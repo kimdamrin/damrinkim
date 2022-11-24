@@ -1,19 +1,19 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `http://nlp.konkuk.ac.kr/bbs/board.php?bo_table=Members&wr_id=14`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'damrin kim',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Damrin Kim | 김담린`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    Email: `ekafls33@konkuk.ac.kr`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    // author: `@damrin kim`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/kimdamrin`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: ``,
     // Content of the About Me section
     about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
